@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir:*)",
+      "Bash(powershell -Command:*)",
+      "Bash(\"C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\SqlLocalDB.exe\" info)",
+      "Bash(\"C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\SqlLocalDB.exe\" info MSSQLLocalDB)",
+      "Bash(\"C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\SqlLocalDB.exe\" create MSSQLLocalDB)",
+      "Bash(\"C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\SqlLocalDB.exe\" start MSSQLLocalDB)",
+      "Bash(dotnet ef database:*)",
+      "Bash(dotnet run:*)",
+      "Bash(if exist \".next/dev/lock\" del /F \".next/dev/lock\")"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
