@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LicenseTracker\\LicenseTracker\\LicenseTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{340C961F-95DD-07E9-5657-F364A261E863}|LicenseTracker.csproj|c:\\licensetracker\\licensetracker\\licensetracker\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340C961F-95DD-07E9-5657-F364A261E863}|LicenseTracker.csproj|solutionrelative:data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340C961F-95DD-07E9-5657-F364A261E863}|LicenseTracker.csproj|c:\\licensetracker\\licensetracker\\licensetracker\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340C961F-95DD-07E9-5657-F364A261E863}|LicenseTracker.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340C961F-95DD-07E9-5657-F364A261E863}|LicenseTracker.csproj|c:\\licensetracker\\licensetracker\\licensetracker\\controllers\\vendorsynccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340C961F-95DD-07E9-5657-F364A261E863}|LicenseTracker.csproj|solutionrelative:controllers\\vendorsynccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340C961F-95DD-07E9-5657-F364A261E863}|LicenseTracker.csproj|c:\\licensetracker\\licensetracker\\licensetracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340C961F-95DD-07E9-5657-F364A261E863}|LicenseTracker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340C961F-95DD-07E9-5657-F364A261E863}|LicenseTracker.csproj|c:\\licensetracker\\licensetracker\\licensetracker\\models\\license.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340C961F-95DD-07E9-5657-F364A261E863}|LicenseTracker.csproj|solutionrelative:models\\license.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340C961F-95DD-07E9-5657-F364A261E863}|LicenseTracker.csproj|c:\\licensetracker\\licensetracker\\licensetracker\\frontend\\pnpm-lock.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{340C961F-95DD-07E9-5657-F364A261E863}|LicenseTracker.csproj|solutionrelative:frontend\\pnpm-lock.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340C961F-95DD-07E9-5657-F364A261E863}|LicenseTracker.csproj|c:\\licensetracker\\licensetracker\\licensetracker\\dtos\\licensedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340C961F-95DD-07E9-5657-F364A261E863}|LicenseTracker.csproj|solutionrelative:dtos\\licensedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340C961F-95DD-07E9-5657-F364A261E863}|LicenseTracker.csproj|c:\\licensetracker\\licensetracker\\licensetracker\\licensetracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{340C961F-95DD-07E9-5657-F364A261E863}|LicenseTracker.csproj|solutionrelative:licensetracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VendorSyncController.cs",
+              "DocumentMoniker": "C:\\LicenseTracker\\LicenseTracker\\LicenseTracker\\Controllers\\VendorSyncController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VendorSyncController.cs",
+              "ToolTip": "C:\\LicenseTracker\\LicenseTracker\\LicenseTracker\\Controllers\\VendorSyncController.cs",
+              "RelativeToolTip": "Controllers\\VendorSyncController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T07:58:32.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\LicenseTracker\\LicenseTracker\\LicenseTracker\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "Data\\SeedData.cs",
+              "ToolTip": "C:\\LicenseTracker\\LicenseTracker\\LicenseTracker\\Data\\SeedData.cs",
+              "RelativeToolTip": "Data\\SeedData.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T20:37:21.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\LicenseTracker\\LicenseTracker\\LicenseTracker\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\LicenseTracker\\LicenseTracker\\LicenseTracker\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T15:22:25.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LicenseTracker\\LicenseTracker\\LicenseTracker\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\LicenseTracker\\LicenseTracker\\LicenseTracker\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:02:42.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LicenseDto.cs",
+              "DocumentMoniker": "C:\\LicenseTracker\\LicenseTracker\\LicenseTracker\\DTOs\\LicenseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\LicenseDto.cs",
+              "ToolTip": "C:\\LicenseTracker\\LicenseTracker\\LicenseTracker\\DTOs\\LicenseDto.cs",
+              "RelativeToolTip": "DTOs\\LicenseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T15:15:51.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "License.cs",
+              "DocumentMoniker": "C:\\LicenseTracker\\LicenseTracker\\LicenseTracker\\Models\\License.cs",
+              "RelativeDocumentMoniker": "Models\\License.cs",
+              "ToolTip": "C:\\LicenseTracker\\LicenseTracker\\LicenseTracker\\Models\\License.cs",
+              "RelativeToolTip": "Models\\License.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T15:03:46.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "pnpm-lock.yaml",
+              "DocumentMoniker": "C:\\LicenseTracker\\LicenseTracker\\LicenseTracker\\Frontend\\pnpm-lock.yaml",
+              "RelativeDocumentMoniker": "Frontend\\pnpm-lock.yaml",
+              "ToolTip": "C:\\LicenseTracker\\LicenseTracker\\LicenseTracker\\Frontend\\pnpm-lock.yaml",
+              "RelativeToolTip": "Frontend\\pnpm-lock.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-11-04T03:10:50.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LicenseTracker.csproj",
+              "DocumentMoniker": "C:\\LicenseTracker\\LicenseTracker\\LicenseTracker\\LicenseTracker.csproj",
+              "RelativeDocumentMoniker": "LicenseTracker.csproj",
+              "ToolTip": "C:\\LicenseTracker\\LicenseTracker\\LicenseTracker\\LicenseTracker.csproj",
+              "RelativeToolTip": "LicenseTracker.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-17T07:24:23.897Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
