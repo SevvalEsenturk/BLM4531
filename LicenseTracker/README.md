@@ -128,24 +128,4 @@ Backend çalıştığında Swagger UI'a şu adresten erişebilirsiniz:
 - ✅ Loading ve error state'leri eklendi
 - ✅ Environment variables (`.env.local`)
 
-## Sorun Giderme
 
-### Backend çalışmıyor
-1. SQL Server'ın çalıştığından emin olun
-2. Connection string'in doğru olduğunu kontrol edin
-3. Migration'ları çalıştırın: `dotnet ef database update`
-
-### Frontend API'ye bağlanamıyor
-1. Backend'in çalıştığından emin olun (`https://localhost:7001`)
-2. `.env.local` dosyasının doğru API URL'ini içerdiğini kontrol edin
-3. CORS hatası alıyorsanız, `Program.cs`'deki CORS ayarlarını kontrol edin
-
-### SSL sertifika hatası
-Development ortamında SSL sertifikası için:
-```bash
-dotnet dev-certs https --trust
-```
-
-## Lisans
-
-Bu proje eğitim amaçlı geliştirilmiştir.
